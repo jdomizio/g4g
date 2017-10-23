@@ -1,0 +1,17 @@
+{
+	"devDependencies": {
+		"lerna": "^2.4.0"
+	},
+	"name": "g4g",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Jason Domizio <jdomizio@advent.com>",
+	"license": "MIT",
+	"dependencies": {
+		"neo4j-client": "^0.0.1",
+		"restify": "^6.2.3"
+	},
+	"scripts": {
+		"start": "lerna run start --stream"
+	}
+}
