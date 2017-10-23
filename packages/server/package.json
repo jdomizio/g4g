@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "neo4j-client": "^0.0.1",
     "restify": "^6.2.3"
   }
 }
