@@ -9,6 +9,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"neo4j-client": "^0.0.1",
+		"react-router-dom": "^4.2.2",
 		"restify": "^6.2.3"
 	},
 	"scripts": {
